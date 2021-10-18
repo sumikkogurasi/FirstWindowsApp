@@ -1,0 +1,11 @@
+F:\WindowsApp\DrawApp\DrawApp\bin\Debug\DrawApp.exe.config
+F:\WindowsApp\DrawApp\DrawApp\bin\Debug\DrawApp.exe
+F:\WindowsApp\DrawApp\DrawApp\bin\Debug\DrawApp.pdb
+F:\WindowsApp\DrawApp\DrawApp\obj\Debug\DrawApp.csprojAssemblyReference.cache
+F:\WindowsApp\DrawApp\DrawApp\obj\Debug\DrawApp.Form1.resources
+F:\WindowsApp\DrawApp\DrawApp\obj\Debug\DrawApp.Properties.Resources.resources
+F:\WindowsApp\DrawApp\DrawApp\obj\Debug\DrawApp.csproj.GenerateResource.cache
+F:\WindowsApp\DrawApp\DrawApp\obj\Debug\DrawApp.csproj.CoreCompileInputs.cache
+F:\WindowsApp\DrawApp\DrawApp\obj\Debug\DrawApp.exe
+F:\WindowsApp\DrawApp\DrawApp\obj\Debug\DrawApp.pdb
+F:\WindowsApp\DrawApp\DrawApp\obj\Debug\DrawApp.Pallet.resources
